@@ -1,1 +1,1 @@
-# Calculator
+# Jaan's Calculator
